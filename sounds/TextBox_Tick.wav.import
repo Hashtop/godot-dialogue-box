@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/TextBox_Tick.wav-6483f41beb1b71bb1aaaf8b2a42e9ad1.sample"
+
+[deps]
+
+source_file="res://sounds/TextBox_Tick.wav"
+dest_files=[ "res://.import/TextBox_Tick.wav-6483f41beb1b71bb1aaaf8b2a42e9ad1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,6 @@
+0
+essa linha é ignorada
+1: [shake rate=20 level=5]{V0.20=I-{W0.5} I-{W0.5} t-{W0.25}think{W1.0} that...}{V0.25={W1.0}maybe{W1.0} umm...}[/shake]
+3: [shake rate=40 level=25]{V0.01=[color=red]FUCK.{W1.0} OFF.}[/color][/shake]
+3: [shake rate=20 level=15]{V0.01=[color=red]FUCK.{W1.0} OFF.}[/color][/shake]
+1: {V0.025=[wave amp=50 freq=10][color=aqua]NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO[/color][/wave]}
